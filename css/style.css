@@ -1,0 +1,201 @@
+
+.f_left{
+	float: left;
+}
+.quintype_head{
+	position: absolute;
+	top: 20px;
+	left: 80px;
+	font-family: Lato;
+  font-size: 32px;
+  font-weight: bold;
+  text-align: left;
+  color: #000000;
+}
+.Rectangle-10 img{
+	float: right;
+	margin-top: -25px;
+}
+.Line {
+  width: 30px;
+  height: 1.8px;
+  margin: 3px 0px;
+  background-color: #000000;
+  border: solid 1.8px #000000;
+}
+.row_science{
+	margin-top: 40px!important;	
+}
+#lead_story img{
+	width: 100%;
+	padding-right: 10px!important;
+	margin: 0px!important;
+	
+}
+.science_news{
+	padding-top: 33px;
+	padding-left: 30px!important;
+	padding-right: 33px!important;
+}
+.heading {
+  width: 200px;
+  height: 22px;
+  font-family: Lato;
+  font-size: 18px;
+  font-weight: bold;
+  letter-spacing: 1.6px;
+  text-align: left;
+  color: #000000;
+}
+
+.t-upper{
+	text-transform: uppercase;
+}
+.Lin-Manuel-Miranda-s {
+  width: 518px;
+  height: 126px;
+  font-family: Lato;
+  font-size: 34px;
+  line-height: 1.24;
+  text-align: left;
+  color: #222222;
+  color: var(--black);
+}
+.Lorem-Ipsum-has-been {
+  width: 518px;
+  height: 84px;
+  font-family: Lato;
+  font-size: 18px;
+  line-height: 1.56;
+  text-align: left;
+  color: #5c5c5c;
+}
+.bottomLine {
+  width: 53px;
+  height: 3px;
+  border-bottom: solid 2px #edd30d;
+}
+.Rectangle-10 {
+  
+  height: 89px;
+  background-color: #ffffff;
+  box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.3);
+}
+.quintype-shadow{
+	box-shadow: 0 1px 7px 0 rgba(0, 0, 0, 0.3);
+}
+.height-150{
+	height: 175px;
+}
+.mar-top-30{
+	margin-top: 30px;
+}
+.no-padding{
+	padding-left: 0px;
+	padding-right: 0px;
+}
+/*BUSINESS*/
+#business{
+	margin-top: 45px;
+	padding-right: 10px!important;bottomLine
+}
+#business img, .width-100{
+	width: 100%;
+}
+.newsletter{
+	margin-top: 30px;
+	background-color: #2f73e4;
+
+}
+.newsletter img{
+	margin-top: 23px;
+	margin-bottom: 10px;
+}
+.newsletter p{
+	color: #fff;
+}
+.newsletter input{
+	width: 85%;
+	border-radius: 5px;
+	border: 1px solid #fff;
+}
+.newsletter form>button{
+	background-color: transparent;
+	border-radius: 25px;
+	border: 1px solid #fff;
+	margin-top: 25px;
+	margin-bottom: 34px;
+	width: 40%;
+  font-family: Lato;
+  font-size: 16px;
+  font-weight: 500;
+  text-align: center;
+  color: #ffffff;
+}
+.clearfix {
+    clear: both;
+    content: "";
+    display: block;
+}
+.mar-bot-10{
+	margin-bottom: 10px;
+}
+.newsletter img{
+	width: 30px!important;
+}
+
+/*slider*/
+
+
+/*Politics*/
+#politics_bg_img{
+	background-repeat: no-repeat;
+	height: 550px;
+}
+.pad-10{
+	padding: 10px 10px 0px 10px;
+}
+.politics_bg_headline{
+	position: absolute;
+	bottom: 13px;
+	padding: 15px;
+	font-family: Lato;
+  font-size: 34px;
+  font-weight: bold;
+  line-height: 1.18;
+  text-align: left;
+  color: #ffffff;
+}
+.headLine_pol{
+	height: 41px;
+  font-family: Lato;
+  font-size: 34px;
+  font-weight: bold;
+  text-align: left;
+  color: #000000;
+  margin-bottom: 30px;
+}
+.headLine_pol span{
+	border-bottom: solid 4px #6093f2;
+}
+#politics_col{
+	
+}
+#pol_col_2 img{
+	width: 100%;
+}
+#pol_col_2{
+	margin-bottom: 10px;
+}
+/*FOOTER*/
+.footer_box{
+	height: 156px;
+  background-color: #212121;
+  color: #fff;
+}
+.footer_box p{
+	float: right;
+	text-align: right;
+	padding-right: 134px;
+	padding-top: 38px;
+}
