@@ -1,0 +1,97 @@
+.nav-tabs>li.active>a{
+    border: none;
+    background-color: #0066A6;
+    color: white!important;
+    border-bottom: 5px solid #fff;
+}
+.nav-tabs>li.active>a:focus{
+  border: none!important;
+  border-bottom: 5px solid #fff!important;
+}
+.nav-tabs>li.active>a:hover{
+    background-color: #0066A6!important;    
+    border: none;
+    border-bottom: 2px solid #fff;
+}
+.nav-tabs ul{
+    color: #fff!important;
+    border: none;
+    background-color: #0066A6!important;
+    overflow-x: scroll;
+    overflow-y: hidden;
+}
+.nav-tabs>li>a{
+  color: #fff;
+}
+.nav-tabs>li>a:hover{
+  background-color: #0066A6!important;    
+  border: none;
+  border-bottom: 4px solid #fff;
+}
+.nav-tabs>li.active>a, .nav-tabs>li.active>a:hover{
+  background-color: #0066A6!important;    
+}
+.nav-tabs>li.active>a, .nav-tabs>li.active>a:hover, .nav-tabs>li.active>a:focus{
+    color: #fff!important;
+    cursor: default;
+    background-color: #0066A6!important;
+    outline: none;
+    /* background-color: #0066A6; */
+    /* border-bottom-color: transparent; */
+}
+.blue{
+  background-color: #0066A6!important;
+}
+.blue img{
+  width: 30px;
+}
+.search{
+  height: 50px;
+
+}
+.search-input{
+  width: 100%;
+  border: none;
+}
+input[type=text] {
+    width: 99%;
+    box-sizing: border-box;
+    border: none;
+    font-size: 16px;
+    background-color: white;
+    background-image: url('../image/search.png');
+    background-size: 25px 25px;
+    background-position: 10px 10px; 
+    background-repeat: no-repeat;
+    padding: 12px 20px 12px 40px;
+    -webkit-transition: width 0.4s ease-in-out;
+    transition: width 0.4s ease-in-out;
+}
+input[type=text]:focus {
+    width: 100%;
+}
+.panel-group .panel-heading+.panel-collapse .panel-body{
+  background-color: #F2F2F2;
+}
+.panel-title>a{
+  text-decoration: none;
+}
+#MainMenu{
+  background-color: #F2F2F2;
+}
+.panel-heading h4{
+  margin-left: 40px;
+}
+.panel-heading img{
+  width: 35px;
+  position: absolute;
+  margin-top: -10px;
+}
+.panel-title{
+  width: 80%;
+}
+
+.first-panel{
+  background-color: #F2F2F2;
+  border: none;
+}
